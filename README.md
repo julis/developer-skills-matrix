@@ -10,5 +10,5 @@ We offer the rubric in three different forms:
 - The JSON rubric is designed for automation, so you can integrate it into your workflows and onboarding processes.
 - The CSV rubric is the **single source of truth**. Any changes to the rubric should be made on this file, which will then be converted to the other formats via automation.
 
-# refs:
+## refs:
 <https://stackoverflow.blog/2022/07/28/measurable-and-meaningful-skill-levels-for-developers/>
